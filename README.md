@@ -18,7 +18,7 @@ This repository contains a high-performance Sentiment Analysis Web Application d
 ### 🚀 Getting Started
 To run this project locally, follow these steps:
 
-1. **Clone the Repo**: `git clone [https://github.com/Naveena-Sri13/Sentiment_Analysis_web_app/tree/main]`
+1. **Clone the Repo**: `git clone [https://github.com/Naveena-Sri13/Sentiment_Analysis_web_app.git]`
 2. **Setup Environment**: `python -m venv venv`
 3. **Install Dependencies**: `pip install -r requirements.txt`
 4. **Run Application**: `streamlit run app.py
