@@ -1,0 +1,10 @@
+# Product Review Sentiment Analyzer
+# Python 3.9+ required
+#
+# Install: pip install -r requirements.txt
+# Run:     streamlit run app.py
+
+streamlit==1.40.0
+nltk==3.9.1
+pandas==2.2.3
+plotly==5.24.1
